@@ -1,3 +1,7 @@
+# Far Away
+
+<img width="1598" height="740" alt="image" src="https://github.com/user-attachments/assets/16f1115c-37e6-4660-a4e5-b329b04751f3" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
